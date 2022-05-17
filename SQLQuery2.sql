@@ -120,3 +120,5 @@ Join Project..CD D
 	and V.location = D.location 
 where D.continent is not null
 
+Select * from PPV
+
